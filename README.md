@@ -26,3 +26,6 @@ The Trick tutorial explaining how to start using Trick can be found in the docs 
 ### License
 
 Trick is released under the NASA Open Source Agreement Version 1.3 [license](LICENSE).
+
+
+Dan added this line
